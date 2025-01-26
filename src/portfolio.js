@@ -101,7 +101,7 @@ const educationInfo = {
       schoolName: "Mumbai University",
       logo: require("./assets/images/1631357817785.jpg"),
       subHeader: "Msc  in Computer Science",
-      duration: "September 2017 - April 2019",
+      duration: "September 2021 - April 2023",
       desc: "Post Graduated with A Grade.",
       descBullets: [
         "Completed coursework in subjects such as Artificial intelligence, Machine Learning,Advanced Database Systems etc."
